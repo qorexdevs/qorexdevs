@@ -143,23 +143,6 @@ Currently into low-level stuff (C/C++), Telegram bots, and mobile development. O
 
 </div>
 
----
-
-<details>
-<summary>☕ Support</summary>
-
-<br>
-
-If you find my work useful, you can support me
-
-| Network | Address |
-|:---|:---|
-| TON / USDT | `UQDdkmbEkv5sxj1xmmYp32qx4DwhVonYp25j8EWGjKWf29Ad` |
-| USDT (TRC20) | `TEEmV49goUnrPZ544vRKG4MYKaffKk9ZVn` |
-| Card (RU) | `2204 3209 4249 7365` |
-
-</details>
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=100&section=footer" width="100%" />
