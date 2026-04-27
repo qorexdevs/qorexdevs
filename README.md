@@ -20,17 +20,17 @@ Building things that work. Backend, mobile, bots, CLI tools, whatever the projec
 
 Currently into low-level stuff (C/C++), Telegram bots, and mobile development. Open to contributing to interesting projects.
 
-**Available for freelance work** — custom bots, APIs, mobile apps, CLI tools. DM me on [Telegram](https://t.me/qorexdev) or check my [Kwork](https://kwork.ru/user/qorexdev) (RU).
+**Available for freelance work** - custom bots, APIs, mobile apps, CLI tools. DM me on [Telegram](https://t.me/qorexdev) or check my [Kwork](https://kwork.ru/user/qorexdev) (RU).
 
 ---
 
 ### ⚡ What I'm Working On
 
-- 🔧 **CLI & System Tools** — network diagnostics, file organizers, shell monitors
-- 📱 **Mobile Apps** — Android (Kotlin/Compose) & iOS (SwiftUI)
-- 🤖 **Telegram Bots** — shop bots, automation, scraping
-- 🌐 **Web** — dashboards, CRMs, admin panels
-- 🛠 **Open Source** — contributing to projects I use
+- 🔧 **CLI & System Tools** - network diagnostics, file organizers, shell monitors
+- 📱 **Mobile Apps** - Android (Kotlin/Compose) & iOS (SwiftUI)
+- 🤖 **Telegram Bots** - shop bots, automation, scraping
+- 🌐 **Web** - dashboards, CRMs, admin panels
+- 🛠 **Open Source** - contributing to projects I use
 
 ---
 
