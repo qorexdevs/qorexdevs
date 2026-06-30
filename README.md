@@ -34,7 +34,7 @@ Currently into low-level stuff (C/C++), Telegram bots, and mobile development. O
 
 </div>
 
-- **[quicksave](https://github.com/qorexdevs/quicksave)** - local snapshot CLI for your working tree: save, diff, restore, and grep past states without git
+- **[quicksave](https://github.com/qorexdevs/quicksave)** - checkpoints your files before an AI agent runs a risky command, so you can roll back even after `rm -rf` wipes things git never tracked
 - **[url-shortener](https://github.com/qorexdevs/url-shortener)** - FastAPI link shortener with custom aliases, TTLs, click stats, QR codes and a filterable dashboard API
 - **[mindvault](https://github.com/qorexdevs/mindvault)** - x402 paywalled resource catalog on Stellar, pay-per-download over HTTP 402
 - **[opticore](https://github.com/qorexdevs/opticore)** - options-chain analytics in Python/C++: PCR, max pain, OI walls, dollar volume, by-strike breakdowns
