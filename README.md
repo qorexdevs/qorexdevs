@@ -30,13 +30,13 @@ Currently into low-level stuff (C/C++), Telegram bots, and mobile development. O
 
 <a href="https://github.com/qorexdevs/quicksave"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=qorexdevs&repo=quicksave&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" /></a>
 <a href="https://github.com/qorexdevs/url-shortener"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=qorexdevs&repo=url-shortener&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" /></a>
-<a href="https://github.com/qorexdevs/opticore"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=qorexdevs&repo=opticore&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" /></a>
+<a href="https://github.com/qorexdevs/solar"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=qorexdevs&repo=solar&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" /></a>
 
 </div>
 
 - **[quicksave](https://github.com/qorexdevs/quicksave)** - checkpoints your files before an AI agent runs a risky command, so you can roll back even after `rm -rf` wipes things git never tracked
 - **[url-shortener](https://github.com/qorexdevs/url-shortener)** - FastAPI link shortener with custom aliases, TTLs, click stats, QR codes and a filterable dashboard API
-- **[mindvault](https://github.com/qorexdevs/mindvault)** - x402 paywalled resource catalog on Stellar, pay-per-download over HTTP 402
+- **[solar](https://github.com/qorexdevs/solar)** - mobile-first PWA for solar plant feasibility in India: IRR, NPV, DSCR, LCOE and cash-flow metrics for 0.25-5 MW projects
 - **[opticore](https://github.com/qorexdevs/opticore)** - options-chain analytics in Python/C++: PCR, max pain, OI walls, dollar volume, by-strike breakdowns
 
 ---
